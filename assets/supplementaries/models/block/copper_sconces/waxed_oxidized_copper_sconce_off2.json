@@ -1,0 +1,8 @@
+{
+	"parent": "supplementaries:block/sconce_off",
+	"textures": {
+		"particle": "supplementaries:block/sconce_copper_oxidized",
+		"base": "supplementaries:block/sconce_copper_oxidized",
+		"torch": "supplementaries:block/copper_torches/oxidized_copper_torch2"
+	}
+}

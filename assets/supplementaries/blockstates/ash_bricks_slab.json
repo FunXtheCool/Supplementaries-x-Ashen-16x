@@ -2,13 +2,13 @@
     "variants": {
         "type=double": [
       {"model": "supplementaries:block/ash_bricks"},
-      {"model": "supplementaries:block/ash_bricks_1"},
-      {"model": "supplementaries:block/ash_bricks_2"},
-      {"model": "supplementaries:block/ash_bricks_3"},
-      {"model": "supplementaries:block/ash_bricks_4"},
-      {"model": "supplementaries:block/ash_bricks_5"},
-      {"model": "supplementaries:block/ash_bricks_6"},
-      {"model": "supplementaries:block/ash_bricks_7"}
+      {"model": "supplementaries:block/ash_bricks1"},
+      {"model": "supplementaries:block/ash_bricks2"},
+      {"model": "supplementaries:block/ash_bricks3"},
+      {"model": "supplementaries:block/ash_bricks4"},
+      {"model": "supplementaries:block/ash_bricks5"},
+      {"model": "supplementaries:block/ash_bricks6"},
+      {"model": "supplementaries:block/ash_bricks7"}
 		],
 		"type=bottom": [
 			{"model": "supplementaries:block/ash_bricks_slab"},

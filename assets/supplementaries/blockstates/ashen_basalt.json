@@ -2,9 +2,9 @@
   "variants": {
     "": [
       {"model": "supplementaries:block/ashen_basalt"},
-      {"model": "supplementaries:block/ashen_basalt_1"},
-      {"model": "supplementaries:block/ashen_basalt_2"},
-      {"model": "supplementaries:block/ashen_basalt_3"}
+      {"model": "supplementaries:block/ashen_basalt1"},
+      {"model": "supplementaries:block/ashen_basalt2"},
+      {"model": "supplementaries:block/ashen_basalt3"}
     ]
   }
 }

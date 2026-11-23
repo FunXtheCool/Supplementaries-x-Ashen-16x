@@ -1,13 +1,13 @@
-# Supplementaries x Ashen x16
+# Supplementaries x Ashen 16x
 
 ### Configured by FunX the Cool Authorized to release by Aim_boot
 
-Reqireds the original Ashen x16 pack! Find it here:
+Reqireds the original Ashen 16x pack! Find it here:
 
 - **Modrith:** <https://modrinth.com/resourcepack/ashen>
 - **CurseForge:** <https://www.curseforge.com/minecraft/texture-packs/ashen-16x>
 
->Note: If you are getting Ashen x16 Resouce-pack from anywhere else it's likely melicous and shouldn't be trusted, and reported.
+>Note: If you are getting Ashen 16x Resouce-pack from anywhere else it's likely melicous and shouldn't be trusted, and reported.
 
 ![About](https://i.imgur.com/nMG1TNv.png)
 #### Nearly all custom textures for every block within Supplementaries

@@ -1,5 +1,5 @@
 {
-  "weathered_copper_sconce": {
+  "variants": {
     "lit=true": [
     {"model": "supplementaries:block/copper_sconces/weathered_copper_sconce"},
     {"model": "supplementaries:block/copper_sconces/weathered_copper_sconce1"},
@@ -10,4 +10,5 @@
     {"model": "supplementaries:block/copper_sconces/weathered_copper_sconce_off1"},
     {"model": "supplementaries:block/copper_sconces/weathered_copper_sconce_off2"}
     ]
-  },
+  }
+}
